@@ -1,1 +1,1 @@
-# html-resume
+# html-capstone1-resume
